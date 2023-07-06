@@ -1,0 +1,21 @@
+{
+  "name": "@denovo/prettier-config",
+  "version": "0.0.0",
+  "description": "A Prettier shareable config for projects using 'Prettier' and 'JavaScript Standard Style' as ESLint rules or separate processes.",
+  "main": ".prettierrc.json",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:denovo-gmbh/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "scripts": {
+    "release": "npx np"
+  },
+  "author": "Lukas Korl <hello@lukaskorl.com>",
+  "license": "Apache-2.0",
+  "peerDependencies": {
+    "prettier": "^2"
+  }
+}
