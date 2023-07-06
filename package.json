@@ -10,6 +10,11 @@
   "keywords": [
     "prettier"
   ],
+  "files": [
+    "LICENSE",
+    "package.json",
+    ".prettierrc.json"
+  ],
   "scripts": {
     "release": "npx np"
   },
