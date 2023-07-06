@@ -16,6 +16,7 @@
     ".prettierrc.json"
   ],
   "scripts": {
+    "test": "echo \"🟡 No test specified\" && exit 0",
     "release": "npx np"
   },
   "author": "Lukas Korl <hello@lukaskorl.com>",
