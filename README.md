@@ -28,3 +28,8 @@ Alternatively you can create a `.prettierrc.json` file with the content:
 ```json
 "@denovo/prettier-config"
 ```
+
+## How to contribute
+
+ - Change the `.prettierrc.json` file in arrangement with the Denovo QA team.
+ - Run `npm run publish` and follow the instructions.
