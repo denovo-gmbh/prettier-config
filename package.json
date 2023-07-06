@@ -1,6 +1,6 @@
 {
   "name": "@denovo/prettier-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Prettier shareable config for projects using 'Prettier' and 'JavaScript Standard Style' as ESLint rules or separate processes.",
   "main": ".prettierrc.json",
   "repository": {
