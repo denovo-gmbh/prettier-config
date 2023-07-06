@@ -15,6 +15,10 @@
     "package.json",
     ".prettierrc.json"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
   "scripts": {
     "test": "echo \"🟡 No test specified\" && exit 0",
     "release": "npx np"
