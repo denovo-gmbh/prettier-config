@@ -18,7 +18,7 @@ Specify `prettier` property in `package.json`:
   "name": "another-project",
   "prettier": "@denovo/prettier-config",
   "devDependencies" : {
-    "@denovo/prettier-config": "^1.0.0"
+    "@denovo/prettier-config": "^1.0.1"
   }
 }
 ```
