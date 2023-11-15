@@ -1,6 +1,6 @@
 {
   "name": "@denovo/prettier-config",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "A common Prettier configuration for projects following the Denovo code guidelines.",
   "main": ".prettierrc.json",
   "repository": {
@@ -26,6 +26,6 @@
   "author": "Lukas Korl <hello@lukaskorl.com>",
   "license": "Apache-2.0",
   "peerDependencies": {
-    "prettier": "^2"
+    "prettier": "^3"
   }
 }
